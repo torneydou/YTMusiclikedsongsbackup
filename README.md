@@ -1,4 +1,4 @@
-# YTMusiclikedsongsbackup
+# YTMusic liked songs backup
 A tool that allows the user to backup the songs inside their accounts liked songs playlist.
 
 Amma be honest this shit was fully made by Gemini, i am NOT a developer, but i needed a problem solved, so i did.
