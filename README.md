@@ -9,7 +9,6 @@ Amma be honest this shit was fully made by Gemini, i am NOT a developer, but i n
 * **Metadata & Artwork Processing:** Automatically embeds track details and crops album covers into clean, high-quality squares.
 * **403 Forbidden Bypass:** Includes custom extractor routing to prevent YouTube from blocking audio streams.
 * **Persistent Session Handling:** Securely caches your encrypted request headers locally so you don't have to paste them every time you open the app.
-* **Custom UI:** Built using a modern, responsive Dark Mode framework featuring interactiv
 
 ## Credits & Acknowledgments
 
